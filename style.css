@@ -1,0 +1,56 @@
+.inline-block {
+    display: inline-block;
+    background-color: grey;
+    padding: 20px;
+    text-align: center;
+    width: 120px;
+}
+
+nav {
+    background-color: lightgray;
+    padding: 5px;
+}
+
+.left {
+    float: left;
+    width: 29%;
+    background-color: rgb(129, 179, 245);
+    height: 500px;
+    text-align: center;
+}
+
+.right {
+    float: left;
+    width: 70%;
+    background-color: rgb(126, 241, 230);
+    height: 500px;
+}
+
+.container1 {
+    background-color: orange;
+    padding: 100px;
+}
+
+.container2 {
+    padding:  10px;
+}
+
+.placeholder {
+    display: inline-block;
+    background-color: aliceblue;
+    border-radius: 10%;
+    height: 100px;
+    width: 150px;
+    margin-top: 30px;
+}
+
+.container2 {
+    text-align: center;
+}
+
+ul {
+    text-align: left;
+}
+img {
+    border-radius: 10%;
+}
